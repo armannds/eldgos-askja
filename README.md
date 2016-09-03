@@ -1,4 +1,4 @@
 eldgos-askja
 ============
 
-This is a web version of a previous created project, in repo massive-octo-batman
+This is a web project repository to use for projects that I will do during some udemy courses.
